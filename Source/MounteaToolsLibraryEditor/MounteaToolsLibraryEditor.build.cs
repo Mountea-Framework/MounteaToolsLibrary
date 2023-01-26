@@ -58,7 +58,15 @@ public class MounteaToolsLibraryEditor : ModuleRules
 				"KismetWidgets",
 				"PropertyEditor",
 				"UMG",
-				"GameplayTasks"
+				"GameplayTasks", 
+				
+				"WebBrowser",
+				"EditorStyle",
+				"DeveloperSettings",
+				
+				"MainFrame",
+				"ToolMenus",
+				"InputCore"
 			}
 		);
 			

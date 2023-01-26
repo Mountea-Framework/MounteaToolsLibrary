@@ -41,7 +41,7 @@ struct FMounteaAudioComponentBase
  *
  * Can be preset or can updated in runtime.
  */
-UCLASS(ClassGroup=(Mountea), meta=(BlueprintSpawnableComponent, DisplayName=" Mountea Audio Component"))
+UCLASS(ClassGroup=(MounteaFramework), meta=(BlueprintSpawnableComponent, DisplayName=" Mountea Audio Component"))
 class MOUNTEATOOLSLIBRARY_API UMounteaAudioComponent : public UActorComponent
 {
 	GENERATED_BODY()

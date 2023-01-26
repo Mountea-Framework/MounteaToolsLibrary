@@ -23,8 +23,8 @@
 		},
 		{
 			"Name": "MounteaToolsLibraryEditor",
-			"Type": "UncookedOnly",
-			"LoadingPhase": "PostEngineInit"
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	]
 }
