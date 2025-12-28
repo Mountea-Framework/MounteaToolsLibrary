@@ -3,7 +3,7 @@
 
 #include "MTLCommands.h"
 
-#define LOCTEXT_NAMESPACE "ActorInteractionPluginEditorModule"
+#define LOCTEXT_NAMESPACE "MounteaInteractionSystemEditorModule"
 
 void FMTLCommands::RegisterCommands()
 {
