@@ -11,7 +11,7 @@ class FMTLCommands : public TCommands<FMTLCommands>
 public:
 
 	FMTLCommands()
-	: TCommands<FMTLCommands>(TEXT("AMTLSupport"), NSLOCTEXT("Contexts", "Support", "ActorInteraction Plugin"), NAME_None, FMTLHelpStyle::GetStyleSetName())
+	: TCommands<FMTLCommands>(TEXT("AMTLSupport"), NSLOCTEXT("Contexts", "Support", "MounteaInteraction Plugin"), NAME_None, FMTLHelpStyle::GetStyleSetName())
 	{
 	}
 
